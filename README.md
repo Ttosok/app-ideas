@@ -1,19 +1,3 @@
-## 👇 **Practice Daily on iCodeThis.com** 👇
-
-[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
-
-# :ledger: App Ideas Collection
-
-Have you ever wanted to build something but you had no idea what to do? Just as
-authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
-
-These applications are:
-
--   great for improving your coding skills :muscle:;
--   great for experimenting with new technologies 🆕;
--   great for adding to your portfolio to impress your next employer/client :file_folder:;
--   great for using as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
